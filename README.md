@@ -38,7 +38,7 @@
 <p align="center">
   📧 <b>Email:</b> <a href="mailto:dwalpalage@gmail.com">dwalpalage@gmail.com</a>  
   <br>
-  🌐 <b>Portfolio:</b> <a href="https://dulaah.github.io">https://dulaah.github.io</a>
+  🌐 <b>Portfolio:</b> <a href="https://dulaah.github.io/dulaj_pabasara/">https://dulaah.github.io</a>
 </p>
 
 ---
