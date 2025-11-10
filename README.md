@@ -78,13 +78,15 @@
   <i><b>Git Activeness</b></i>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=1" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulaah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dulaah's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulaah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1" alt="Dulaah's GitHub Stats" />
 </p>
+
 
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***GitHub Stats...***
