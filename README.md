@@ -83,9 +83,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=1" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulaah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1" alt="Dulaah's GitHub Stats" />
-</p>
 
 
 ---
