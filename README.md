@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDRjeXZ6MHJqcXJma2dpbjZqNGE4Z3dzOTd6NjZjNWdncDlqM3FxdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l41lJ8ywG1ncm9FXW/giphy.gif" width="45px"> Education
 
 - 🎯 **Currently Studying:** BEng (Hons) Software Engineering — London Metropolitan University   
-- 🎓 **Higher National Diploma (HND):** Pearson UK  
+- 🎓 **Higher National Diploma In Computing(HND):** Pearson UK  
  
 
 ---
