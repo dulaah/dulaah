@@ -80,7 +80,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulaah&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 
