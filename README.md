@@ -78,11 +78,9 @@
   <i><b>Git Activeness</b></i>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulaah&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaah&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
 </p>
-
 
 
 ---
