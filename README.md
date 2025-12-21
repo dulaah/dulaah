@@ -78,6 +78,7 @@
   <i><b>Git Activeness</b></i>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulaah&layout=compact&langs_count=10&exclude_repo=github-readme-stats&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
